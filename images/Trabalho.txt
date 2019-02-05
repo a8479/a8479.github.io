@@ -1,0 +1,14 @@
+1. Webportfolio:
+
+Entregar:
+
+A. Pasta com o trabalho realizado com a seguinte nomenclatura:
+(www) 
+Essa pasta deve estar comprimida em ficheiro ZIP/RAR,no seguinte ficheiro
+(12345_nomeAluno.ZIP/RAR)
+
+B. O projeto devera ser publicado em Github, e disponiblizado o link publico
+
+C. A pagina about.me deve estar online e presente no webportfolio enquanto hiperligação
+
+D. A pagina behance deve estar online e presente no webportfolio enquanto hiperligaçao
